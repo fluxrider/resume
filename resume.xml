@@ -1,0 +1,145 @@
+<resume title="Curriculum Vitae">
+	<id>
+		<name>David Lareau</name>
+		<address>
+			<street>2D Offenbach Lane</street>
+			<city>Ottawa</city>
+			<province>Ontario</province>
+			<postal>K2G 4Z6</postal>
+		</address>
+		<email>lareau.david@gmail.com</email>
+		<phone>(613) 327-4426</phone>
+	</id>
+
+	<education title="Education|&#201;ducation">
+		<degree>
+			<name>Master of Applied Science in Biomedical Engineering|Ma&#238;trise en sciences appliqu&#233;es de G&#233;nie Biom&#233;dical</name>
+			<where>University of Ottawa, Ontario|Universit&#233; d'Ottawa, Ontario</where>
+			<image>uottawa.svg</image>
+			<from>2009</from>
+			<to>2011-12</to>
+			<duration>2 years|2 ans</duration>
+			<note>Thesis: Haptic Image Exploration.|Th&#232;se: Exploration haptique d'image.</note>
+			<note>Assets: Image Processing, 3D Graphics, Haptics (touch), Real-Time Computing, C/C++, Java.|Atouts: Traitement d'images, Graphique 3D, Interface Haptique (sense du toucher), Programmation &#224; temps r&#233;el, C/C++, Java.</note>
+		</degree>
+		<degree>
+			<name>Honours Bachelor of Science in Computer Science CO-OP|Baccalaur&#233;at en sciences informatiques avec honneurs COOP</name>
+			<where>University of Ottawa, Ontario|Universit&#233; d'Ottawa, Ontario</where>
+			<image>uottawa.svg</image>
+			<from>2002</from>
+			<to>2006-12</to>
+			<duration>4 years|4 ans</duration>
+			<note>Graduated Summa Cum Laude (DGPA: 93%, CGPA: 87%).|Gradu&#233; Summa Cum Laude (MPD: 93%, MPC: 87%).</note>
+			<note>Honours: Platform-independent layer for Input, Audio and 2D Graphics.|Projet: Couche d'abstraction pour l'Audio, les Graphiques 2D et les Entr&#233;es de contr&#244;les.</note>
+		</degree>
+		<degree>
+			<name>Computer Engineering Technology CO-OP|Technologie du g&#233;nie informatique COOP</name>
+			<where>La Cit&#233; coll&#233;giale, Ottawa, Ontario</where>
+			<image>lacite.svg</image>
+			<from>1999</from>
+			<to>2002-08</to>
+			<duration>3 years|3 ans</duration>
+			<note>Graduated with great honours (CGPA 98.25%).|Gradu&#233; avec grands honneurs (MPC 98.25%).</note>
+		</degree>
+	</education>
+
+	<list title="Skills|Comp&#233;tences">
+		<item>{BB}6 years{EB} of experience in programming jobs.|{BB}6 ans{EB} d'exp&#233;rience de programmation.</item>
+		<item>Expert in {BB}image processing{EB}, and comfortable with 2D and 3D graphics.|Expert en {BB}traitement d'image{EB}, et &#224; l'aise avec les graphiques 2D et 3D.</item>
+		<item>Strong knowledge of {BB}C++{EB} and {BB}Java{EB}, and capable of accurate transcoding from one to the other.|Bonne connaissance de {BB}C++{EB} et {BB}Java{EB}, et capable de faire une traduction exacte de l'un &#224; l'autre.</item>
+		<item>Competent with the {BB}Python{EB} and {BB}Ruby{EB} scripting languages.|Comp&#233;tent avec les langages de script {BB}Python{EB} et {BB}Ruby{EB}.</item>
+		<item>Disciplined in testing, and debugging through visualization.|Disciplin&#233; pour tester et d&#233;boguer en utilisant la visualisation.</item>
+		<item>Capable of designing special purpose data structure and algorithms.|Capable de concevoir des structures de donn&#233;es et des algorithmes sp&#233;cialis&#233;s.</item>
+		<item>Passionate about input devices such as joysticks, mouse, keyboard and force-feedback devices.|Passionn&#233; par les p&#233;riph&#233;riques d'entr&#233;e comme le joysticks, la souris, le clavier.</item>
+		<item>Familiar with {BB}Windows{EB}, {BB}Linux{EB} and DOS, and other platforms (J2ME, Brew, Nintendo DS).|Familiaris&#233; avec {BB}Windows{EB}, {BB}Linux{EB} et DOS, et autres plateformes (J2ME, Brew, Nintendo DS).</item>
+		<item>Worked with many web technologies such as WebGL, XSLT, PHP, JSP, ASP, Perl and Flash, interfacing with various databases using {BB}SQL{EB}.|A de l'exp&#233;rience avec plusieurs technologies web telles WebGL, XSLT, PHP, JSP, ASP, Perl et Flash, et diff&#233;rentes bases de donn&#233;es utilisant {BB}SQL{EB}.</item>
+		<item>Experienced with Microsoft Visual Studio and the Eclipse IDE.|A d&#233;j&#224; travaill&#233; avec Microsoft Visual Studio et Eclipse.</item>
+		<item>Fluent in {BB}English{EB} and {BB}French{EB}.|Ma&#238;trise le {BB}fran&#231;ais{EB} et l'{BB}anglais{EB}.</item>
+		<item>Manage a personal website (http://fluxrider.com).|G&#232;re un site web personnel (http://fluxrider.com).</item>
+	</list>
+
+	<list title="Personal Interests|Int&#233;r&#234;ts Personel">
+		<item>Try out new technology through personal programming projects like game demos and tools.|Essaie de nouvelle technologie avec des projets personelle de programmation.</item>
+		<item>Keep a record of all the video games I consider great (http://fluxrider.com/projects/gamelist).|Garde compte de tous les jeux vid&#233;o que je consid&#232;re tr&#232;s bon (fluxrider.com/projects/gamelist).</item>
+	</list>
+
+	<experience title="Work Experience|Exp&#233;rience">
+
+		<work>
+			<name>Espial</name>
+			<image>espial.gif</image>
+			<where>Ottawa, Ontario</where>
+			<what>Developer|D&#233;veloppeur</what>
+			<when>2012-05 to 2012-09 (5 months)|2012-05 &#224; 2012-09 (5 mois)</when>
+			<exp>Added features to an internet browser for televisions (Webkit-based).|Ajout de fonctionalit&#233; &#224; un navigateur web pour les televisions (bas&#233; sur Webkit).</exp>
+			<exp>Developed series of graphics tests for identifying platform specific issues.|A d&#233;velopp&#233; une suite de tests pour identifier des probl&#232;mes sp&#233;cifique &#224; une platforme.</exp>
+		</work>
+
+		<work>
+			<name>University of Ottawa|Universit&#233; d'Ottawa</name>
+			<image>uottawa.svg</image>
+			<where>Ottawa, Ontario</where>
+			<what>Teacher Assistant|Assistant &#224; l'enseignement</what>
+			<when>2010-09 to 2012-04 (4 groups during the Masters)|2010-09 &#224; 2012-04  (4 groupes durant la Ma&#238;trise)</when>
+			<exp>Designed assignments, correction.|Conception des devoirs, correction.</exp>
+			<exp>Taught class, ran labs, and proctored exams.|Enseignement de classe, laboratoire et surveillant lors d'examen.</exp>
+		</work>
+
+		<work>
+			<name>Magmic Games</name>
+			<image>magmic.png</image>
+			<where>Ottawa, Ontario</where>
+			<what>Video Game Developer|D&#233;veloppeur de Jeu Vid&#233;o</what>
+			<when>2007-01 to 2008-11 (2 years)|2007-01 &#224; 2008-11 (2 ans)</when>
+			<exp>Developed many video games for mobile devices (2D/3D).|A d&#233;velopp&#233; plusieurs jeux vid&#233;o pour des plateformes mobile (2D/3D).</exp>
+			<exp>Led a team in the development of a car racing game.|A dirig&#233; une &#233;quipe dans le d&#233;veloppement d'un jeu de courses automobile.</exp>
+			<exp>Built tools and utilities (e.g. map editor, file compression, file archives).|A construit plusieurs outils (e.g. &#233;diteurs de niveau, compression de fichier, archives de fichier). </exp>
+			<more>
+				<what>Platform Developer|D&#233;veloppeur Plateforme</what>
+				<when>2006-05 to 2006-08 (4 months)|2006-05 &#224; 2006-08 (4 mois)</when>
+				<exp>Generalized layout and input code to facilitate porting on different platforms.|A g&#233;n&#233;ralis&#233; le code de la mise en page et les contr&#244;les pour faciliter le transfert de plateforme.</exp>
+				<exp>Designed visualization and debugging tools to aid bug fixing.|A con&#231;u des outils de visualisation et de d&#233;bogage pour le identifier les bogues rapidement.</exp>
+			</more>
+		</work>
+
+		<work>
+			<minor/>
+			<name>National Research Council Canada|Conseil national de recherche Canada</name>
+			<where>Ottawa, Ontario</where>
+			<what>Programmer|Programmeur</what>
+			<when>2005-01 to 2005-04 and 2005-09 to 2005-12 (8 months)|2005-01 &#224; 2005-04 et 2005-09 &#224; 2005-12 (8 mois)</when>
+			<exp>Participated in the development of a prototype for an emerging Data Mining environment.|A particip&#233; au d&#233;veloppement d'un prototype pour un nouvel environnement de minage de donn&#233;es.</exp>
+		</work>
+
+		<work>
+			<minor/>
+			<sameLine/>
+			<name>Industry Canada|Industrie Canada</name>
+			<where>Ottawa, Ontario</where>
+			<what>User Interface and Application Support Analyst|Interface Usag&#233; et Analyste de Support d'Application</what>
+			<when>2004-05 to 2004-08 (4 months)|2004-05 &#224; 2004-08 (4 mois)</when>
+			<exp>Wrote and maintained pages written in HTML, Perl, C and JSP across the main website.|A mis &#224; jour et r&#233;par&#233; des pages HTML, Perl, C et JSP &#224; travers le site web principale.</exp>
+		</work>
+
+		<work>
+			<minor/>
+			<sameLine/>
+			<name>LC&amp;D Internet Publishing</name>
+			<where>Orl&#233;ans, Ontario</where>
+			<what>Programmer|Programmeur</what>
+			<when>2001-09 to 2001-12 (4 months)|2001-09 &#224; 2001-12 (4 mois)</when>
+			<exp>Programmed server modules in ASP and SQL and C++ COM objects.|A programm&#233; des modules ASP &amp; SQL Server, et des objets COM en C++.</exp>
+		</work>
+
+		<work>
+			<minor/>
+			<name>Public Service Commission of Canada|Commission de la fonction publique du Canada</name>
+			<where>Hull, Qu&#233;bec</where>
+			<what>Web Programmer|Programmeur Web</what>
+			<when>2000-05 to 2000-08 and 2001-01 to 2001-04 (8 months)|2000-05 &#224; 2000-08 et 2001-01 &#224; 2001-04 (8 mois)</when>
+			<exp>Developed online learning courses.|A d&#233;velopp&#233; des cours d'apprentissage en-ligne.</exp>
+		</work>
+
+	</experience>
+
+</resume>
