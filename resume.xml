@@ -17,17 +17,17 @@
 			<where>University of Ottawa, Ontario|Universit&#233; d'Ottawa, Ontario</where>
 			<image>uottawa.svg</image>
 			<from>2009</from>
-			<to>2011-12</to>
+			<to>2011</to>
 			<duration>2 years|2 ans</duration>
 			<note>Thesis: Haptic Image Exploration.|Th&#232;se: Exploration haptique d'image.</note>
-			<note>Assets: Image Processing, 3D Graphics, Haptics (touch), Real-Time Computing, C/C++, Java.|Atouts: Traitement d'images, Graphique 3D, Interface Haptique (sense du toucher), Programmation &#224; temps r&#233;el, C/C++, Java.</note>
+			<note>Involved Image Processing, 3D Graphics, Haptics (touch), Real-Time Computing, C/C++, Java.|Traitement d'images, Graphique 3D, Interface Haptique (sense du toucher), Programmation &#224; temps r&#233;el, C/C++, Java.</note>
 		</degree>
 		<degree>
-			<name>Honours Bachelor of Science in Computer Science CO-OP|Baccalaur&#233;at en sciences informatiques avec honneurs COOP</name>
+			<name>Honours Bachelor of Computer Science CO-OP|Baccalaur&#233;at en sciences informatiques avec honneurs COOP</name>
 			<where>University of Ottawa, Ontario|Universit&#233; d'Ottawa, Ontario</where>
 			<image>uottawa.svg</image>
 			<from>2002</from>
-			<to>2006-12</to>
+			<to>2006</to>
 			<duration>4 years|4 ans</duration>
 			<note>Graduated Summa Cum Laude (DGPA: 93%, CGPA: 87%).|Gradu&#233; Summa Cum Laude (MPD: 93%, MPC: 87%).</note>
 			<note>Honours: Platform-independent layer for Input, Audio and 2D Graphics.|Projet: Couche d'abstraction pour l'Audio, les Graphiques 2D et les Entr&#233;es de contr&#244;les.</note>
@@ -37,33 +37,56 @@
 			<where>La Cit&#233; coll&#233;giale, Ottawa, Ontario</where>
 			<image>lacite.svg</image>
 			<from>1999</from>
-			<to>2002-08</to>
+			<to>2002</to>
 			<duration>3 years|3 ans</duration>
-			<note>Graduated with great honours (CGPA 98.25%).|Gradu&#233; avec grands honneurs (MPC 98.25%).</note>
+			<note>Graduated with Great Honours (CGPA 98.25%).|Gradu&#233; avec grands honneurs (MPC 98.25%).</note>
 		</degree>
 	</education>
 
 	<list title="Skills|Comp&#233;tences">
-		<item>{BB}6 years{EB} of experience in programming jobs.|{BB}6 ans{EB} d'exp&#233;rience de programmation.</item>
-		<item>Expert in {BB}image processing{EB}, and comfortable with 2D and 3D graphics.|Expert en {BB}traitement d'image{EB}, et &#224; l'aise avec les graphiques 2D et 3D.</item>
-		<item>Strong knowledge of {BB}C++{EB} and {BB}Java{EB}, and capable of accurate transcoding from one to the other.|Bonne connaissance de {BB}C++{EB} et {BB}Java{EB}, et capable de faire une traduction exacte de l'un &#224; l'autre.</item>
-		<item>Competent with the {BB}Python{EB} and {BB}Ruby{EB} scripting languages.|Comp&#233;tent avec les langages de script {BB}Python{EB} et {BB}Ruby{EB}.</item>
-		<item>Disciplined in testing, and debugging through visualization.|Disciplin&#233; pour tester et d&#233;boguer en utilisant la visualisation.</item>
+		<item>{BB}8 years{EB} of experience in programming jobs.|{BB}8 ans{EB} d'exp&#233;rience de programmation.</item><!-- college coop: 12 months, university coop: 16 months, magmic: 23 months, masters: ~2 years, but I only count 1, espial: 5 months. algonquin: 2 months! SUB-TOTAL: 70 months, fuel: 26 months+ -->
+		<item>{BB}18 months{EB} of experience as a teaching assistant and substitute professor.|{BB}18 mois{EB} d'exp&#233;rience comme assistant &#224; l'enseignement et professeur rempla&#231;ant.</item><!-- 16 month TA, 2 months algonquin -->
+		<item>Very strong knowledge of {BB}C/C++{EB} and {BB}Java{EB}.|Grande connaissance de {BB}C/C++{EB} et {BB}Java{EB}.</item>
+		<item>Loves working in team with {BB}git{EB}, but can also work with svn and cvs.|Adore travailler en &#233;quipe avec {BB}git{EB}, mais aussi capable de travailler avec svn et cvs.</item>
+		<item>Expert in {BB}image processing{EB} and {BB}2D and 3D graphics{EB} and {BB}OpenGL{EB}.|Expert en {BB}traitement d'image{EB}, et &#224; avec les {BB}graphiques 2D et 3D{EB} et {BB}OpenGL{EB}.</item>
+		<item>Professional experience with mobile platforms ({BB}Android{EB}, {BB}iOS{EB}, J2ME, Brew).|Experience professionnelle avec plusieurs platformes portable ({BB}Android{EB}, {BB}iOS{EB}, J2ME, Brew).</item>
+		<item>Worked with many web technologies ({BB}WebGL{EB}, {BB}javascript{EB}, XSLT, HTML, CSS, PHP, ASP).|A de l'exp&#233;rience avec plusieurs technologies web telles {BB}WebGL{EB}, {BB}javascript{EB}, XSLT, HTML, CSS, PHP, JSP, ASP.</item>
+		<item>Used various relational database with {BB}SQL{EB}.|A utilis&#233; diff&#233;rentes bases de donn&#233;es relationel avec {BB}SQL{EB}.</item>
+		<item>Disciplined in {BB}testing{EB}, and debugging through visualization.|Disciplin&#233; pour tester et d&#233;boguer en utilisant la visualisation.</item>
 		<item>Capable of designing special purpose data structure and algorithms.|Capable de concevoir des structures de donn&#233;es et des algorithmes sp&#233;cialis&#233;s.</item>
-		<item>Passionate about input devices such as joysticks, mouse, keyboard and force-feedback devices.|Passionn&#233; par les p&#233;riph&#233;riques d'entr&#233;e comme le joysticks, la souris, le clavier.</item>
-		<item>Familiar with {BB}Windows{EB}, {BB}Linux{EB} and DOS, and other platforms (J2ME, Brew, Nintendo DS).|Familiaris&#233; avec {BB}Windows{EB}, {BB}Linux{EB} et DOS, et autres plateformes (J2ME, Brew, Nintendo DS).</item>
-		<item>Worked with many web technologies such as WebGL, XSLT, PHP, JSP, ASP, Perl and Flash, interfacing with various databases using {BB}SQL{EB}.|A de l'exp&#233;rience avec plusieurs technologies web telles WebGL, XSLT, PHP, JSP, ASP, Perl et Flash, et diff&#233;rentes bases de donn&#233;es utilisant {BB}SQL{EB}.</item>
-		<item>Experienced with Microsoft Visual Studio and the Eclipse IDE.|A d&#233;j&#224; travaill&#233; avec Microsoft Visual Studio et Eclipse.</item>
+		<item>Competent with the {BB}Python{EB} and {BB}Ruby{EB} scripting languages.|Comp&#233;tent avec les langages de script {BB}Python{EB} et {BB}Ruby{EB}.</item>
+		<item>Familiar with many game development framework or libraries like {BB}Unity{EB}, {BB}LibGDX{EB} and {BB}SDL{EB}.|Famili&#233; avec plusieurs libraries et platform de d&#233;velopement de jeux vid&#233;o tel {BB}Unity{EB}, {BB}LibGDX{EB} et {BB}SDL{EB}.</item>
+		<item>Experienced with {BB}Eclipse{EB}, the {BB}GNU toolchain{EB}, {BB}Xcode{EB} and {BB}Microsoft Visual Studio{EB}.|A d&#233;j&#224; travaill&#233; avec {BB}Eclipse{EB}, les {BB}outils GNU{EB}, {BB}Xcode{EB} et {BB}Microsoft Visual Studio{EB}.</item>
 		<item>Fluent in {BB}English{EB} and {BB}French{EB}.|Ma&#238;trise le {BB}fran&#231;ais{EB} et l'{BB}anglais{EB}.</item>
-		<item>Manage a personal website (http://fluxrider.com).|G&#232;re un site web personnel (http://fluxrider.com).</item>
+		<item>A {BB}Linux{EB} user at home, but can also work with {BB}Mac OS X{EB} and {BB}Windows{EB}.|Utilisateur de {BB}Linux{EB} &#224; la maison, mais aussi comfortable avec {BB}Mac OS X{EB} et {BB}Windows{EB}.</item>
+		<item>I manage a personal website (http://fluxrider.com).|Je g&#232;re un site web personnel (http://fluxrider.com).</item>
 	</list>
 
 	<list title="Personal Interests|Int&#233;r&#234;ts Personel">
 		<item>Try out new technology through personal programming projects like game demos and tools.|Essaie de nouvelle technologie avec des projets personelle de programmation.</item>
-		<item>Keep a record of all the video games I consider great (http://fluxrider.com/projects/gamelist).|Garde compte de tous les jeux vid&#233;o que je consid&#232;re tr&#232;s bon (fluxrider.com/projects/gamelist).</item>
+		<item>Keep a record on my website of all the video games I consider great with screenshots.|Garde compte sur mon site web de tous les jeux vid&#233;o que je consid&#232;re tr&#232;s bon.</item>
 	</list>
 
 	<experience title="Work Experience|Exp&#233;rience">
+
+		<work>
+			<name>Fuel Industries</name>
+			<image>fuel.png</image>
+			<where>Ottawa, Ontario</where>
+			<what>Software Developer|D&#233;veloppeur</what>
+			<when>2012-12 to present (2+ years)|2012-12 &#224; pr&#233;sent (2+ ans)</when>
+			<exp>Develop cross-platform libraries for iOS and Android game development.|D&#233;veloppe des libraries de d&#233;veloppement de jeux pour iOS et Android.</exp>
+			<exp>Write games for clients using their IP (e.g. Lego, Batman, McDonalds, Furby).|Programme des jeux vid&#233;o pour des divers clients ave leur propri&#233;t&#233; intelectuelle comme Lego, Batman, McDonalds, Furby.</exp>
+			<exp>Build tools and libraries for 2D skeletal animations and screen layouts.|Construit des outils et libraries pour l'animation de skelette 2D.</exp>
+		</work>
+
+		<work>
+			<name>Algonquin College|College Algonquin</name>
+			<where>Ottawa, Ontario</where>
+			<what>Substitute Professor|Professeur rempla&#231;ant</what>
+			<when>2014-03 to 2014-04 (2 months)|2014-04 &#224; 2014-04 (2 mois)</when>
+			<exp>Taught practical C++ game programming to first year students (12 hours a week).</exp>
+		</work>
 
 		<work>
 			<name>Espial</name>
@@ -79,10 +102,11 @@
 			<name>University of Ottawa|Universit&#233; d'Ottawa</name>
 			<image>uottawa.svg</image>
 			<where>Ottawa, Ontario</where>
-			<what>Teacher Assistant|Assistant &#224; l'enseignement</what>
-			<when>2010-09 to 2012-04 (4 groups during the Masters)|2010-09 &#224; 2012-04  (4 groupes durant la Ma&#238;trise)</when>
+			<what>Teaching Assistant|Assistant &#224; l'enseignement</what>
+			<when>2010-09 to 2012-04 (16 months throughout my studies)|2010-09 &#224; 2012-04  (16 mois durant mes &#233;tudes)</when>
 			<exp>Designed assignments, correction.|Conception des devoirs, correction.</exp>
-			<exp>Taught class, ran labs, and proctored exams.|Enseignement de classe, laboratoire et surveillant lors d'examen.</exp>
+			<exp>Ran labs, substitute teacher, and proctored exams.|Enseignement de classe, laboratoire et surveillant lors d'examen.</exp>
+			<exp>Courses: Data Structures and Algorithms, Concept of Programming Languages, Introduction to Programming I and II.|Cours: Structures de donn&#233;es et algorithmes, Concepts des Languages de Programmation, Introduction &#224; l'Informatique 1 et 2.</exp>
 		</work>
 
 		<work>
@@ -94,14 +118,31 @@
 			<exp>Developed many video games for mobile devices (2D/3D).|A d&#233;velopp&#233; plusieurs jeux vid&#233;o pour des plateformes mobile (2D/3D).</exp>
 			<exp>Led a team in the development of a car racing game.|A dirig&#233; une &#233;quipe dans le d&#233;veloppement d'un jeu de courses automobile.</exp>
 			<exp>Built tools and utilities (e.g. map editor, file compression, file archives).|A construit plusieurs outils (e.g. &#233;diteurs de niveau, compression de fichier, archives de fichier). </exp>
+				<exp>Generalized layout and input code to facilitate porting on different platforms.|A g&#233;n&#233;ralis&#233; le code de la mise en page et les contr&#244;les pour faciliter le transfert de plateforme.</exp>
+				<exp>Designed visualization and debugging tools to aid bug fixing.|A con&#231;u des outils de visualisation et de d&#233;bogage pour le identifier les bogues rapidement.</exp>
+<!--
 			<more>
 				<what>Platform Developer|D&#233;veloppeur Plateforme</what>
 				<when>2006-05 to 2006-08 (4 months)|2006-05 &#224; 2006-08 (4 mois)</when>
 				<exp>Generalized layout and input code to facilitate porting on different platforms.|A g&#233;n&#233;ralis&#233; le code de la mise en page et les contr&#244;les pour faciliter le transfert de plateforme.</exp>
 				<exp>Designed visualization and debugging tools to aid bug fixing.|A con&#231;u des outils de visualisation et de d&#233;bogage pour le identifier les bogues rapidement.</exp>
 			</more>
+-->
 		</work>
 
+<!-- consolidate my coops all in one for space -->
+		<work>
+			<name>Various|Vari&#233;e</name>
+			<where>Ottawa Region|Outaouais</where>
+			<what>CO-OP Placement|Placement Co-op</what>
+			<when>2000 to 2006|2000 &#224; 2006</when>
+			<exp>Platform Developer, Magmic Games (4 months)|D&#233;veloppeur Plateforme, Magmic Games (4 mois)</exp>
+			<exp>Programmer, National Research Council Canada (8 months)|Programmeur, Conseil national de recherche Canada (8 mois)</exp>
+			<exp>Web Programmer, Industry Canada (4 months)|Programmeur Web, Industrie Canada (4 mois)</exp>
+			<exp>Web Programmer, LC&amp;D Internet Publishing (4 months)|Programmeur Web, LC&amp;D Internet Publishing (4 mois)</exp>
+			<exp>Web Programmer, Public Service Commission of Canada (8 months)|Programmeur Web, Commission de la fonction publique du Canada (8 mois)</exp>
+		</work>
+<!--
 		<work>
 			<minor/>
 			<name>National Research Council Canada|Conseil national de recherche Canada</name>
@@ -139,7 +180,9 @@
 			<when>2000-05 to 2000-08 and 2001-01 to 2001-04 (8 months)|2000-05 &#224; 2000-08 et 2001-01 &#224; 2001-04 (8 mois)</when>
 			<exp>Developed online learning courses.|A d&#233;velopp&#233; des cours d'apprentissage en-ligne.</exp>
 		</work>
+-->
 
 	</experience>
 
 </resume>
+
